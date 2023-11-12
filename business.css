@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-color1 {
+    background-color: black;
+    background-size: cover;
+    width: 100vw;
+    height: 8vh;
+    color: aliceblue;
+}
+
+.logo {
+    color: #ff3399;
+}
+
+.gap1 {
+    margin-left: 100px;
+}
+
+.gap2 {
+    margin-left: 500px;
+}
+
+.bg-color2 {
+    background-image: url("https://res.cloudinary.com/dyqij7hqm/image/upload/t_Gradient fade/v1699432240/coffee_nkusj3.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    padding: 250px;
+}
+
+.color1 {
+    color: #33cc33;
+}
+
+.head1 {
+    color: red;
+}
+
+.head3 {
+    color: #66ffff;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    margin-top: 20px;
+}
+
+.head2 {
+    color: black;
+    margin-left: 10px;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    margin-top: 20px;
+}
+
+.button1 {
+    background-color: blue;
+    border-radius: 10px;
+    width: 15vw;
+}
+
+.bg-color3 {
+    background-color: pink;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    padding: 50px;
+}
+
+.pad {
+    padding: 70px;
+}
+
+.bg-color4 {
+    background-color: #99ccff;
+    background-size: cover;
+    width: 100vw;
+    height: 110vh;
+    color: white;
+    padding: 50px;
+}
+
+.color2 {
+    color: blue;
+}
+
+.bg-color5 {
+    background-color: #ff66cc;
+    background-size: cover;
+    width: 100vw;
+    height: 130vh;
+    color: white;
+    padding: 50px;
+}
+
+.a {
+    text-align: center;
+}
+
+.color3 {
+    color: #800000;
+}
+
+.mar {
+    margin-left: 40px;
+}
+
+.color {
+    color: #ccffff;
+}
+
+.bg {
+    color: white;
+    font-size: 20px;
+}
+
+.bg-color6 {
+    background-image: url("https://res.cloudinary.com/dyqij7hqm/image/upload/v1699434541/Coffee-Shop-Business-Plan_b7szfk.jpg");
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
